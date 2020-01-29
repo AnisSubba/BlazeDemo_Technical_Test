@@ -15,6 +15,8 @@ As well lot of dependency such as selenium and cucumber-json, which will allow o
 
 In this project I was able to look at various different page and access them using automation testing. I was able to create automation code which navigate from the homepage, check various city on departure and destination dropdown box, click on the flight of your choosing and fill out the form.
 
+SOME DEFECT FOUND:
+
 As I was looking at the website I found some defect/data issue as no matter which city you choose it shows the same flight, time and Price.
 
 As I was looking at the detail WebPage I found out that the taxes is always the same, which is higher then actual flight.
